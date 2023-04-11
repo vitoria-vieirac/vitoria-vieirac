@@ -8,12 +8,12 @@ Meu nome é Vitória, e sou uma Programadora Fullstack em processo de aprendizad
 :pushpin:CSS
 <br>
 <br>
+📌:JavaScript
+<br>
+📌:Node
+<br>
+<br>
 Estou aprendendo no momento:
-<br>
-:books:JavaScript
-<br>
-:books:Node
-<br>
 :books:React
 <br>
 <br>
